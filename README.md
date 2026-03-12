@@ -14,12 +14,15 @@ REQUIREMENTS:
 ● Dependencies: Microsoft .Net 2.0 framework
 ● Mini Drafter.
 ● Geometry instruments.
+
+
 PROCEDURE:
 1. Draw a horizontal line AD of length 120 mm.
 2. At A, Draw a line AB of length 30 mm at an angle of 600
 3. With B as centre, BC = AD = 120mm draw an arc
 4. With D as centre, CD = 60 mm draw another arc
 5. Join BC and DC
+
 <img width="751" height="342" alt="Screenshot 2026-03-12 110404" src="https://github.com/user-attachments/assets/bc9737c7-92a4-4f8a-be41-82233698f583" />
 
 
